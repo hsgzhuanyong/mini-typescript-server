@@ -2,19 +2,19 @@
 
 ## 如何使用
 
-> 安装依赖文件
+* 安装依赖文件
 
 ```shell
   yarn install
 ```
 
-> 运行开发环境
+* 运行开发环境
 
 ```shell
   yarn dev
 ```
 
-> 打包上线
+* 打包上线
 ```shell
   yarn build
 ```
